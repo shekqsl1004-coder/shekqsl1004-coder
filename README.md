@@ -3,14 +3,17 @@
 <!--
 **shekqsl1004-coder/shekqsl1004-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **shekqsl1004-coder**  
+Welcome to my GitHub profile 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🎓 Major: Artificial Intelligence
+- 💻 Interests: Machine Learning, Computer Vision
+- ✨ Goal: To become a great developer!
+
+## ✨ Motto
+> 💡 **_This too shall pass._** 
+
+## 📫 Contact
+- Email: k1121603ekql@naver.com
+
